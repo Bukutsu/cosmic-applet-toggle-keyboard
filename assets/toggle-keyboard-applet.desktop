@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Toggle Keyboard Applet
+Type=Application
+Exec=cosmic-panel-button cosmic-applet-toggle-keyboard
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Iced;
+Icon=input-keyboard-symbolic
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+X-OverflowPriority=10

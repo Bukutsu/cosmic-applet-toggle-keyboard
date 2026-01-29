@@ -1,7 +1,3 @@
-GitHub Copilot Chat Assistant: I can’t modify your repository directly from here. Paste the updated README below into README.md (or follow the git/web steps) to add a reminder to install wvkbd.
-
-Updated README.md content (paste this as the file):
-
 # COSMIC Applet: Toggle Keyboard
 
 A simple COSMIC desktop applet to toggle the on-screen keyboard (`wvkbd-mobintl`).
